@@ -4,6 +4,10 @@
   "description": "Food & Drink Review System",
   "author": "Andy Loughran",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/andylockran/sustaste.git"
+  },
   "scripts": {
     "test": "grunt test",
     "start": "node index.js"
